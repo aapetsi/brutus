@@ -30,6 +30,7 @@ class Register extends React.Component {
       console.log(errorState);
       this.setState({ errors: {} });
       alert("success");
+      console.log(this.props);
     } else {
       alert("provide your info");
     }

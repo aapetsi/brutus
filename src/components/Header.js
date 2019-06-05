@@ -7,6 +7,7 @@ const Header = () => (
       Register
     </NavLink>
     <NavLink to="/login">Login</NavLink>
+    <NavLink to="/homepage">Protected</NavLink>
   </div>
 );
 

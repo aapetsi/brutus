@@ -1,5 +1,5 @@
 import React from "react";
 
-const HomePage = () => <div>this is the home page</div>;
+const HomePage = () => <div>this is a protected route</div>;
 
 export default HomePage;
